@@ -49,3 +49,5 @@ HTML_Frontend/WebContent/index.html
 HTML_Frontend/WebContent/META-INF/MANIFEST.MF
 HTML_Frontend/WebContent/stylesheet.css
 *.MF
+jupiter/src/main/java/db/MySQLDBUtil.java
+jupiter/src/main/java/external/MonkeyLearnClient.java
