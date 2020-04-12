@@ -1,0 +1,51 @@
+
+### Eclipse files ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Package Files #
+*.jar
+*.war
+
+# more caches and things from deploy #
+war/WEB-INF/deploy/
+war/WEB-INF/classes/
+
+### Java ###
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+onlineShop/
+HTML_Frontend/demo.css
+HTML_Frontend/WebContent/index.html
+HTML_Frontend/WebContent/META-INF/MANIFEST.MF
+HTML_Frontend/WebContent/stylesheet.css
+*.MF
