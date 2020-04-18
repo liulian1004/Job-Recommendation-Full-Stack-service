@@ -51,3 +51,5 @@ HTML_Frontend/WebContent/stylesheet.css
 *.MF
 jupiter/src/main/java/db/MySQLDBUtil.java
 jupiter/src/main/java/external/MonkeyLearnClient.java
+jupiter/src/main/java/.DS_Store
+*.server
