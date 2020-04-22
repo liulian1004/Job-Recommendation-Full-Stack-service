@@ -58,3 +58,9 @@ jupiter/target/maven-archiver/pom.properties
 jupiter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
 jupiter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
 Servers/.DS_Store
+Servers/Tomcat v9.0 Server at localhost-config/catalina.policy
+Servers/Tomcat v9.0 Server at localhost-config/catalina.properties
+Servers/Tomcat v9.0 Server at localhost-config/context.xml
+Servers/Tomcat v9.0 Server at localhost-config/server.xml
+Servers/Tomcat v9.0 Server at localhost-config/tomcat-users.xml
+Servers/Tomcat v9.0 Server at localhost-config/web.xml
